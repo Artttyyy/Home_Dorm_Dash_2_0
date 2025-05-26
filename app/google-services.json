@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461259616978",
+    "project_id": "bh-database-c6df3",
+    "storage_bucket": "bh-database-c6df3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461259616978:android:96f56bff3a901c1014b30b",
+        "android_client_info": {
+          "package_name": "com.example.homedormdash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChE7y71q1EOjwHv6167KUI_rxk2f7ErS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
